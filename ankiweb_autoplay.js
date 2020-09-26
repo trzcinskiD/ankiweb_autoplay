@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Ankiweb Autoplay
 // @namespace    https://odblokowany.com/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Automatically plays sound files on ankiweb.net
 // @author       trzcinskid
-// @license      GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
+// @license      MIT License https://spdx.org/licenses/MIT.html
 // @match        https://ankiweb.net/study/
 // @match        https://ankiuser.net/study/
 // @grant        none
+// jshint esversion: 6
 // ==/UserScript==
 
 (function () {
